@@ -1,6 +1,5 @@
 <br>
 <br>
-<br>
 
 # Help <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Exclamation%20Mark.webp" alt="Exclamation Mark" width="40" height="40" />
 
